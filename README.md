@@ -1,4 +1,9 @@
 # Task Slayerz
+
+Hello Hero! Welcome to Task Slayerz!
+
+*Want to view this documentation in a prettier format? Check out the [Task Slayerz Documentation](https://taskslayerz.com/lets-slay)!*
+
 Public gamified system for slaying your tasks (License: CC-BY-NC-SA-4.0)
 
 ## What is Task Slayerz?
